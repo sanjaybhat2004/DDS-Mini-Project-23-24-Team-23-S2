@@ -52,12 +52,13 @@ modern urban infrastructure.
 
 
 <details>
-  ### Functional Table
+ Functional Table
  <details>
 
  
-  
+ The functional table for Binary to BCD: 
 ![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/functionaltable.jpg?raw=true)
+ The functional table for Parking availability selector:
 ![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/functionaltable2.jpg?raw=true)
 
 
