@@ -54,6 +54,9 @@ modern urban infrastructure.
 <details>
   ### Functional Table
  <details>
+  
+![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/functionaltable.jpg?raw=true)
+![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/functionaltable2.jpg?raw=true)
 
 
  </details>
@@ -66,6 +69,10 @@ modern urban infrastructure.
 <details>
  
 ![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img1.jpg?raw=true)
+![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img2.jpg?raw=true)
+![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img3.jpg?raw=true)
+![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img4.jpg?raw=true)
+![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img5.jpg?raw=true)
 
 
 </details>
