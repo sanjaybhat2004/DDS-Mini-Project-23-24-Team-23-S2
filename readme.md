@@ -1,4 +1,4 @@
- # DDS-miniproject-T4 - AGRI RAIN ALARM SYSTEM
+ # DDS - Mini Project S2 - T23
 
 
 ## Team Members
