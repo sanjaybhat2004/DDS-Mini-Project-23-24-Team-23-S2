@@ -54,16 +54,6 @@ modern urban infrastructure.
 <details>
   ### Functional Table
  <details>
-   | RS | LED | Buzzer | Irrigation Switch |
-|---- |------ |----------|-----------------------|
-| 0 | 0 | 0 | 1 |
-| 1 | 1 | 1 | 0 |
-| 0 | 0 | 0 | 1 |
-| 1 | 1 | 1 | 0 |
-When there's no rain (RS=0), the LED and Buzzer should be OFF, and the Irrigation Switch
-should be ON (to allow irrigation).
-When rain is detected (RS=1), the LED and Buzzer should be ON, and the Irrigation Switch
-should be OFF (to stop irrigation).
 
 
  </details>
@@ -74,9 +64,6 @@ should be OFF (to stop irrigation).
 
 
 <details>
-
-
-  <img src="https://https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img1.jpg" />
 
 
 </details>
