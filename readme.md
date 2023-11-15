@@ -54,12 +54,40 @@ modern urban infrastructure.
 <details>
   ### Functional Table
  <details>
+
+ 
   
 ![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/functionaltable.jpg?raw=true)
 ![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/functionaltable2.jpg?raw=true)
 
 
  </details>
+
+ The working of this project is as follows :
+The system has an inbuilt program that allows it to determine which parking lot is empty based
+on the entry and exit . Initially all the parking lots are available . The system shows the parking lot which is to be assigned with the help of a LED which displays green, all the LEDs show red
+if there is no parking lot available. The valet is then expected to choose the assigned parking lot
+by the system by pressing a button. The button is connected to a T flip flop which ensures that
+after a vehicle leaves the parking lot assigned to that vehicle is now marked available. If multiple
+parking lots are available the system shows the closest one to the entry.
+When the valet presses the button to enter, a clock is set off with respect to the corresponding
+lot which ticks until the car is removed. The cost is 2 Rs / hr and the store functions for only 7
+hours a day hence the parking lot system is by default reset after 7 hours . (i.e each car is only
+allowed a max duration of 7 hours in the parking lot ) .
+The cost is calculated every time an hour is passed by using a multiplier for each lot which
+multiplies the cost and the duration of stay. A clock in the circuit is implemented by using a
+register which is attached to the output of an adder, whose input is the output of the register.
+The register is made to update every time by a clock pulse which oscillates with some
+frequency. The cost is however in binary and we are required to convert this into BCD to display
+it in a HEX LED display which shows the final cost at a given instant of time.
+This is done by a 4 bit binary to BCD converter. Thus the cost on the LEDs is the cost to be paid
+by the user which the valet will deduct from the tabs of the user.
+During exit the valet deducts the required cost and then presses the button to allow exit ( which
+can be thought of to trigger a gate which allows the vehicle to pass). This action also triggers
+the T flip-flop associated with this lot and updates the system's data to make that parking lot
+available .
+
+ 
 </details>
 
 
