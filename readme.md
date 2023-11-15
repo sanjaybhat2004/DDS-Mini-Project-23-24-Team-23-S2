@@ -64,6 +64,7 @@ modern urban infrastructure.
 
 
 <details>
+![alt text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img1.jpg?raw=true)
 
 
 </details>
