@@ -360,7 +360,14 @@ endmodule
 
 
 ```
+## References
+<details>
+ ● https://www.chipverify.com/verilog/verilog-tutorial
+ ● https://www.youtube.com/watch?v=cMz7wyY_PxE
+ ● https://www.tutorialspoint.com/digital_circuits/index.htm
 
+ 
+</details>
 
 
 
