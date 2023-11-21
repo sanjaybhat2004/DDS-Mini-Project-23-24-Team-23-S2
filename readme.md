@@ -361,7 +361,8 @@ endmodule
 
 ```
 </details>
-### References
+
+## References :
 <details>
  ● https://www.chipverify.com/verilog/verilog-tutorial
  ● https://www.youtube.com/watch?v=cMz7wyY_PxE
