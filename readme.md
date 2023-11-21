@@ -113,7 +113,6 @@ The time for each lot is calculated according to the followng image:
 The cost is multiplied and converted to BCD in the following image:
 
 
-![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img4.jpg?raw=true)
 ![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img5.jpg?raw=true)
 
 
