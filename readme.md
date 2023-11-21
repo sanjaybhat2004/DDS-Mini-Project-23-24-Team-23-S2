@@ -360,6 +360,7 @@ endmodule
 
 
 ```
+</details>
 ## References
 <details>
  ● https://www.chipverify.com/verilog/verilog-tutorial
