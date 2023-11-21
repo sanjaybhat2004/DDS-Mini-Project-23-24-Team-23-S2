@@ -101,19 +101,19 @@ available .
 
 <details>
  
-![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img1.jpg?raw=true)
+![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Snapshots/inputimg.jpg?raw=true)
 The time for each lot is calculated according to the followng image:
 
 
-![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img2.jpg?raw=true)
+![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/mainimg.jpg?raw=true)
 
 
-![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img3.jpg?raw=true)
+![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/timeimg.jpg?raw=true)
 
 The cost is multiplied and converted to BCD in the following image:
 
 
-![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/img5.jpg?raw=true)
+![alternative text](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2/blob/main/Logisim/multiplierimg.jpg?raw=true)
 
 
 </details>
